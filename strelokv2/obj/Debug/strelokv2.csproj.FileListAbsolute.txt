@@ -1,0 +1,12 @@
+D:\boinextdoor\strelokv2\strelokv2\bin\Debug\strelokv2.exe.config
+D:\boinextdoor\strelokv2\strelokv2\bin\Debug\strelokv2.exe
+D:\boinextdoor\strelokv2\strelokv2\bin\Debug\strelokv2.pdb
+D:\boinextdoor\strelokv2\strelokv2\obj\Debug\strelokv2.csprojAssemblyReference.cache
+D:\boinextdoor\strelokv2\strelokv2\obj\Debug\strelokv2.Properties.Resources.resources
+D:\boinextdoor\strelokv2\strelokv2\obj\Debug\strelokv2.csproj.GenerateResource.cache
+D:\boinextdoor\strelokv2\strelokv2\obj\Debug\strelokv2.csproj.CoreCompileInputs.cache
+D:\boinextdoor\strelokv2\strelokv2\obj\Debug\strelokv2.exe
+D:\boinextdoor\strelokv2\strelokv2\obj\Debug\strelokv2.pdb
+D:\boinextdoor\strelokv2\strelokv2\obj\Debug\strelokv2.Strelok.resources
+D:\boinextdoor\strelokv2\strelokv2\obj\Debug\strelokv2.LoginForm.resources
+D:\boinextdoor\strelokv2\strelokv2\obj\Debug\strelokv2.FormAbout.resources

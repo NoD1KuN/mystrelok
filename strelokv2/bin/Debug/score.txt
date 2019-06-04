@@ -1,0 +1,6 @@
+amur 25
+stas 23
+oleg 20
+sokrat 15
+misha 2
+STOP
